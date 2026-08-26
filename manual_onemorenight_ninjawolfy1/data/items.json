@@ -61,15 +61,15 @@
     "category": [
       "Mains"
     ],
-    "progression": true
+    "progression + useful": true
   },
   {
     "count": 1,
-    "name": "Flash Beacon",
+    "name": "Flash Ring",
     "category": [
       "Mains"
     ],
-    "useful": true
+    "progression + useful": true
   },
   {
     "count": 1,
@@ -85,7 +85,7 @@
     "category": [
       "Mains"
     ],
-    "progression_skip_balancing": true
+    "progression + useful": true
   },
   {
     "count": 1,
@@ -101,7 +101,7 @@
     "category": [
       "Mains"
     ],
-    "useful": true
+    "filler": true
   },
   {
     "count": 1,
@@ -117,7 +117,7 @@
     "category": [
       "Mains"
     ],
-    "useful": true
+    "progression + useful": true
   },
   {
     "count": 1,
@@ -141,7 +141,7 @@
     "category": [
       "Mains"
     ],
-    "useful": true
+    "progression + useful": true
   },
   {
     "count": 1,
@@ -197,7 +197,7 @@
     "category": [
       "Starters"
     ],
-    "useful": true
+    "progression + useful": true
   },
   {
     "count": 1,
@@ -213,7 +213,7 @@
     "category": [
       "Starters"
     ],
-    "progression": true
+    "progression + useful": true
   },
   {
     "count": 1,
@@ -277,7 +277,7 @@
     "category": [
       "Starters"
     ],
-    "progression_skip_balancing": true
+    "useful": true
   },
   {
     "count": 1,
@@ -301,7 +301,7 @@
     "category": [
       "Starters"
     ],
-    "progression_skip_balancing": true
+    "useful": true
   },
   {
     "count": 1,
@@ -350,430 +350,6 @@
       "Tools"
     ],
     "progression": true
-  },
-  {
-    "count": 1,
-    "name": "Bloxy Cola",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Power Saving Mode",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Tarot Cloth",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Increased Power",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Quickly out",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Better Flashlights",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "More Options",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Dumbell",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Glass Pillar",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Polished Generator",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Turbo Mode",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Regenerate Life",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Full Health",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Photo Album",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Broken Stopwatch",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Supply and Demand",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Broken Deal",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Glitched Card",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Flower Pot",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Tough as Nails",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Last Robloxian Standing",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "Ninja Belt",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "0 - The Fool",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "I - The Magician",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "II - High Priestess",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "III - The Empress",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "IV - The Emperor",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "V - The Hierophant",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "VI? - The Linked",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "VII - The Chariot",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "VIII - Strength",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": " IX - The Hermit",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "X - Wheel of Fortune",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "progression_skip_balancing": true
-  },
-  {
-    "count": 1,
-    "name": "XI - Justice",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XII? - The One who died",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XIII - Death",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XIV - Temperance",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XV - The Devil",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XVI - The Tower",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XVII - The Star",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XVIII - The Moon",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XIX - The Sun",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XX - Judgement",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "XXI - The World",
-    "category": [
-      "Shop Unlocks"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Self-Preservation",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Avarice",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Adrenaline (Shadow Deal)",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Hope",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Hunger",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Powerless",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Greed",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Lifeblood",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
-  },
-  {
-    "count": 1,
-    "name": "Tough Heart",
-    "category": [
-      "Shadow Deals"
-    ],
-    "useful": true
   },
   {
     "count": 0,
@@ -1144,20 +720,12 @@
     "filler": true
   },
   {
-    "count": 6,
-    "name": "Progressive Night Cap",
-    "category": [
-      "Nights"
-    ],
-    "progression": true
-  },
-  {
     "count": 1,
     "name": "Guilty",
     "category": [
       "State of Mind"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1165,7 +733,7 @@
     "category": [
       "State of Mind"
     ],
-    "useful": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1173,7 +741,7 @@
     "category": [
       "State of Mind"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1181,7 +749,7 @@
     "category": [
       "State of Mind"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1189,7 +757,7 @@
     "category": [
       "State of Mind"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1197,7 +765,7 @@
     "category": [
       "State of Mind"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1205,7 +773,7 @@
     "category": [
       "Hub Items"
     ],
-    "progression_skip_balancing": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1222,15 +790,5 @@
       "Hub Items"
     ],
     "filler": true
-  },
-  {
-    "name": "Mandatory Event Categories Item",
-    "count": 1,
-    "category": [
-      "Ending",
-      "Achievement",
-      "Kill This One Item In Particular Category"
-    ],
-    "progression": true
   }
 ]
