@@ -1,37 +1,5 @@
 [
     {
-        "name": "TitN",
-        "category": [
-            "Ending", "Achievement"
-        ],
-        "copy_location": "Trapped in the Nightmare Completion",
-        "visible": false
-    },
-    {
-        "name": "BiD",
-        "category": [
-            "Ending", "Achievement"
-        ],
-        "copy_location": "Burning it Down Completion",
-        "visible": false
-    },
-    {
-        "name": "PtWP",
-        "category": [
-            "Ending", "Achievement"
-        ],
-        "copy_location": "Paint the World Purple Completion",
-        "visible": false
-    },
-    {
-        "name": "FS",
-        "category": [
-            "Ending", "Achievement"
-        ],
-        "copy_location": "False Savior Completion",
-        "visible": false
-    },
-    {
         "name": "Empty-Handed",
         "category": [
             "Achievement","Feat"
