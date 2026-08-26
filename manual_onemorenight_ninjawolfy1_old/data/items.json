@@ -1,0 +1,794 @@
+[
+  {
+    "count": 1,
+    "name": "Broken Flashlight",
+    "category": [
+      "Run Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Gasoline Canister",
+    "category": [
+      "Run Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lighter",
+    "category": [
+      "Run Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Piece of Paper",
+    "category": [
+      "Run Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Puppet Mask",
+    "category": [
+      "Run Unlocks"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New Shoes",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Iron Lungs",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Handheld Music Box",
+    "category": [
+      "Mains"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flash Ring",
+    "category": [
+      "Mains"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Adrenaline (Main)",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Camera Panel",
+    "category": [
+      "Mains"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quick Step",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pocket Bell",
+    "category": [
+      "Mains"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Realistic Gun",
+    "category": [
+      "Mains"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Speed Coil",
+    "category": [
+      "Mains"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Witches Brew",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Guilty Memory",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Spare Mask",
+    "category": [
+      "Mains"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Empowered Paint Brush",
+    "category": [
+      "Mains"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Barry's top hat",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Red Flag",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Dry's Calculator",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Figure's Glowstick",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Giftbox",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "My Heart Locket",
+    "category": [
+      "Starters"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Isra's Chicken",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jordi's Paint Brush",
+    "category": [
+      "Starters"
+    ],
+    "progression + useful": true
+  },
+  {
+    "count": 1,
+    "name": "Broken Light Bulb",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Safety Helmet",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "My own Shadow",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Spare Batteries",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fumo Sticker",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Call of the Darkness",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pocket Watch",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Bloxy Drink",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Pocket Change",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Turbo Gasoline",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Four-Leaf Clover",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Telltale Heart",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Under my Sleeve",
+    "category": [
+      "Starters"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Flashlight",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Cameras",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Mask",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Doors",
+    "category": [
+      "Tools"
+    ],
+    "progression": true
+  },
+  {
+    "count": 0,
+    "name": "Skeledude Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Void Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "The Ferryman",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Motif fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Note in a bottle",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Paintbrush Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Yellow Barry Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Chains",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Fish Emoji",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Ticket",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bad Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Ball Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Balloon Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bomb Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Broken Cat Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Broken Chimp Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Bunny Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Chicken Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Destroyman III",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Dry Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Fox Fish",
+    "category": [
+      "0"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Fran Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Isra Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Jan Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Jordi Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Kono Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Mango Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "MikePike Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Pillar Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Pot0s Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Puppet Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Raptor Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Roxie Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Wormcave Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "ZGuesto Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Zuffy Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Black Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Blue Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Cyan Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Green Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Magenta Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Orange Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Purple Fish",
+    "category": [
+      "0"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Red Fish",
+    "category": [
+      "0h"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "White Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 0,
+    "name": "Yellow Fish",
+    "category": [
+      "Fish"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Guilty",
+    "category": [
+      "State of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Calm",
+    "category": [
+      "State of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Devastated",
+    "category": [
+      "State of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scorched",
+    "category": [
+      "State of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Soaked",
+    "category": [
+      "State of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "a Puppet",
+    "category": [
+      "State of Mind"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fishing Rod",
+    "category": [
+      "Hub Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snowball",
+    "category": [
+      "Hub Items"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ocarina",
+    "category": [
+      "Hub Items"
+    ],
+    "filler": true
+  }
+]

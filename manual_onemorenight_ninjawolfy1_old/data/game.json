@@ -1,0 +1,16 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "OneMoreNight",
+  "creator": "NinjaWolfy1",
+  "filler_item_name": "Fish",
+  "death_link": true,
+  "starting_items": [
+    {
+      "item_categories": ["State of Mind"],
+      "random": 1
+    },
+    {
+      "item_categories": ["Tools"]
+    }
+  ]
+}

@@ -1,16 +1,46 @@
 {
   "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
-  "game": "OneMoreNight",
-  "creator": "NinjaWolfy1",
-  "filler_item_name": "Fish",
-  "death_link": true,
+  "game": "Stable",
+  "creator": "20260319",
+  "filler_item_name": "Free Character of Your Choice",
   "starting_items": [
     {
-      "item_categories": ["State of Mind"],
+      "items": [
+        "Ryu",
+        "Akuma"
+      ]
+    },
+    {
+      "item_categories": [
+        "Left Side"
+      ],
       "random": 1
     },
     {
-      "item_categories": ["Tools"]
+      "items": [
+        "Wolverine",
+        "Storm",
+        "Phoenix"
+      ],
+      "random": 1
+    },
+    {
+      "item_categories": [
+        "Trash"
+      ]
+    },
+    {
+      "random": 3
+    },
+    {
+      "items": [
+        "Deadpool"
+      ],
+      "yaml_option": [
+        "start_with_deadpool"
+      ]
     }
-  ]
+  ],
+  "death_link": false,
+  "starting_index": 1
 }

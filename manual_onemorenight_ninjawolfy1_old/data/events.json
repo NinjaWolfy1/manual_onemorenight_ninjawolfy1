@@ -1,0 +1,442 @@
+[
+    {
+        "name": "Empty-Handed",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Empty-Handed",
+        "visible": false
+    },
+    {
+        "name": "No Time To Think",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: No Time To Think",
+        "visible": false
+    },
+    {
+        "name": "That's My Blood",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: That's My Blood",
+        "visible": false
+    },
+    {
+        "name": "Bloodshed",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Bloodshed",
+        "visible": false
+    },
+    {
+        "name": "Let There Be Light!",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Let There Be Light!",
+        "visible": false
+    },
+    {
+        "name": "Gone Outside",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Gone Outside",
+        "visible": false
+    },
+    {
+        "name": "I'm Him",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: I'm Him",
+        "visible": false
+    },
+    {
+        "name": "Overcharged",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Overcharged",
+        "visible": false
+    },
+    {
+        "name": "Hard Worker",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Hard Worker",
+        "visible": false
+    },
+    {
+        "name": "The rich get richer",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: The rich get richer",
+        "visible": false
+    },
+    {
+        "name": "Pulled by Strings",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Pulled by Strings",
+        "visible": false
+    },
+    {
+        "name": "Burning with you",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Burning with you",
+        "visible": false
+    },
+    {
+        "name": "Soaked in Guilt",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Soaked in Guilt",
+        "visible": false
+    },
+    {
+        "name": "I called for help.",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: I called for help.",
+        "visible": false
+    },
+    {
+        "name": "Never Tired",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Never Tired",
+        "visible": false
+    },
+    {
+        "name": "Unfortunate",
+        "category": [
+            "Achievement","Feat"
+        ],
+        "copy_location": "Feat: Unfortunate",
+        "visible": false
+    },
+    {
+        "name": "Beginner Fisher",
+        "category": [
+            "Achievement","Hub","Fishing"
+        ],
+        "copy_location": "Hub: Beginner Fisher",
+        "visible": false
+    },
+    {
+        "name": "Fishing Around",
+        "category": [
+            "Achievement","Hub","Fishing"
+        ],
+        "copy_location": "Hub: Fishing Around",
+        "visible": false
+    },
+    {
+        "name": "Master of the Fishing Rod",
+        "category": [
+            "Achievement","Hub","Fishing"
+        ],
+        "copy_location": "Hub: Master of the Fishing Rod",
+        "visible": false
+    },
+    {
+        "name": "Seen the Fish",
+        "category": [
+            "Achievement","Hub","Fishing"
+        ],
+        "copy_location": "Hub: Seen the Fish",
+        "visible": false
+    },
+    {
+        "name": "Did you shake it?",
+        "category": [
+            "Achievement","Hub"
+        ],
+        "copy_location": "Hub: Did you shake it?",
+        "visible": false
+    },
+    {
+        "name": "THEY HAVE TO DO SOMETHING",
+        "category": [
+            "Achievement","Hub"
+        ],
+        "copy_location": "Hub: THEY HAVE TO DO SOMETHING",
+        "visible": false
+    },
+    {
+        "name": "The Paint Brush",
+        "category": [
+            "Achievement","Hub"
+        ],
+        "copy_location": "Hub: The Paint Brush",
+        "visible": false
+    },
+    {
+        "name": "Strongest Hammer",
+        "category": [
+            "Achievement","Hub"
+        ],
+        "copy_location": "Hub: Strongest Hammer",
+        "visible": false
+    },
+    {
+        "name": "Speed Coil",
+        "category": [
+            "Achievement","Hub"
+        ],
+        "copy_location": "Hub: Speed Coil",
+        "visible": false
+    },
+    {
+        "name": "Not a Charity",
+        "category": [
+            "Achievement","Hub"
+        ],
+        "copy_location": "Hub: Not a Charity",
+        "visible": false
+    },
+    {
+        "name": "The Nightmare Begins",
+        "category": [
+            "Achievement","Nights"
+        ],
+        "copy_location": "Nights: The Nightmare Begins",
+        "visible": false
+    },
+    {
+        "name": "Visible Hope",
+        "category": [
+            "Achievement","Nights"
+        ],
+        "copy_location": "Nights: Visible Hope",
+        "visible": false
+    },
+    {
+        "name": "Halfway Point",
+        "category": [
+            "Achievement","Nights"
+        ],
+        "copy_location": "Nights: Halfway Point",
+        "visible": false
+    },
+    {
+        "name": "Still not over",
+        "category": [
+            "Achievement","Nights"
+        ],
+        "copy_location": "Nights: Still not over",
+        "visible": false
+    },
+    {
+        "name": "The End of a Nightmare",
+        "category": [
+            "Achievement","Nights"
+        ],
+        "copy_location": "Nights: The End of a Nightmare",
+        "visible": false
+    },
+    {
+        "name": "One More Month",
+        "category": [
+            "Achievement","Nights"
+        ],
+        "copy_location": "Nights: One More Month",
+        "visible": false
+    },
+    {
+        "name": "Are You Ready For Barry?",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Are You Ready For Barry?",
+        "visible": false
+    },
+    {
+        "name": "Self-Embodiment of Perfection",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Self-Embodiment of Perfection",
+        "visible": false
+    },
+    {
+        "name": "Fighting the Thoughts",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Fighting the Thoughts",
+        "visible": false
+    },
+    {
+        "name": "All Figured Out",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: All Figured Out",
+        "visible": false
+    },
+    {
+        "name": "Chicken%",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Chicken%",
+        "visible": false
+    },
+    {
+        "name": "No Power Needed",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: No Power Needed",
+        "visible": false
+    },
+    {
+        "name": "Minesweeper",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Minesweeper",
+        "visible": false
+    },
+    {
+        "name": "Music of the Past",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Music of the Past",
+        "visible": false
+    },
+    {
+        "name": "Feel my Flame",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Feel my Flame",
+        "visible": false
+    },
+    {
+        "name": "Not Today, girl!",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Not Today, girl!",
+        "visible": false
+    },
+    {
+        "name": "Quick Thinker",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Quick Thinker",
+        "visible": false
+    },
+    {
+        "name": "Unmasked",
+        "category": [
+            "Achievement","Threats and Challenges"
+        ],
+        "copy_location": "Threats and Challenges: Unmasked",
+        "visible": false
+    },
+    {
+        "name": "Boop!",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Boop!",
+        "visible": false
+    },
+    {
+        "name": "Emptyness",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Emptyness",
+        "visible": false
+    },
+    {
+        "name": "Empty Victory",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Empty Victory",
+        "visible": false
+    },
+    {
+        "name": "Shiny Things make me Happy",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Shiny Things make me Happy",
+        "visible": false
+    },
+    {
+        "name": "I'm Prepared",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: I'm Prepared",
+        "visible": false
+    },
+    {
+        "name": "Another Memory",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Another Memory",
+        "visible": false
+    },
+    {
+        "name": "The power of Friendship",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: The power of Friendship",
+        "visible": false
+    },
+    {
+        "name": "No Power, No Problem",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: No Power, No Problem",
+        "visible": false
+    },
+    {
+        "name": "Stardust Crusaders",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Stardust Crusaders",
+        "visible": false
+    },
+    {
+        "name": "Green Runner",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Green Runner",
+        "visible": false
+    },
+    {
+        "name": "Welcome",
+        "category": [
+            "Achievement","Unique"
+        ],
+        "copy_location": "Unique: Welcome",
+        "visible": false
+    }
+]
