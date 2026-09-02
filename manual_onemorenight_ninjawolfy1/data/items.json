@@ -51,6 +51,14 @@
             "sort-key": "row-0-3"
         },
         {
+            "name": "Sandbox Mode",
+            "category": [
+                "Run Unlocks", "Sandbox Unlock"
+            ],
+            "progression": true,
+            "sort-key": "row-0-4"
+        },
+        {
             "name": "Hands",
             "category": [
                 "Tools"
