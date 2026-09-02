@@ -1,18 +1,32 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
-    "ExampleRegion":{
-        "connects_to": ["Second Region"],
-        "requires": "|Ryu| or {YamlCompare(Example_Range >= example )}",
+    "Hub":{
+        "connects_to": ["Sandbox", "New Run"],
+        "requires": "",
         "starting": true
     },
-    "Second Region": {
-        "requires": "|@Characters:1|",
-        "connects_to": ["Third Region"],
+    "Sandbox": {
+        "requires": "{OptOne(Sandbox Mode)}"
+    },
+    "New Run": {
+        "connects_to": ["Trapped in the Nightmare"],
+        "requires": "|@State of Mind| AND |@Tools:2|"
+    },
+    "TitN": {
+        "connects_to": ["BiD", "PtWP", "FS"],
+        "requires": "|Flashlight| AND {OptAll(|Doors| AND |Left Door| AND |Back Door| AND |Right Door|)} AND |@Camera Access| AND {OptAll(|Maintenance Camera| AND |Arcade Camera| AND |Entrance Camera| AND |Backstage Camera| AND |Kitchen Camera| AND |Storage Camera| AND |Maintenance + Left Vent| AND |Arcade + Prize Corner| AND |Entrance| AND |Dining Room + Stage + Backstage| AND |Kitchen| AND |Storage + Right Vent|)}",
         "exit_requires": {
-            "Third Region": "|@Characters:5|"
+            "FS": "{YamlDisabled(endings_in_order)}"
         }
     },
-    "Third Region": {
-        "connects_to": []
+    "BiD": {
+        "requires": "|Broken Flashlight| AND |@Gas:ALL| AND |Hands| AND {OptOne(Power Generator)}"
+    },
+    "PtWP": {
+        "connects_to": ["FS"],
+        "requires": "|Broken Flashlight| AND |Jordi's Paint Brush| AND |Piece of Paper:ALL|"
+    },
+    "FS": {
+        "requires": "|Puppet Mask| AND (|Handheld Music Box| OR |a Puppet|) AND |Laptop| AND |Hands| AND {OptAll(|@Bundled Cameras:ALL| AND |Entrance Camera| AND |Backstage Camera| AND |Kitchen Camera| AND |Storage Camera| AND |Right Hall Camera| AND |Left Hall Camera| AND |Maintenance Camera|)}"
     }
 }

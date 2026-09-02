@@ -12,7 +12,7 @@
         {
             "name": "Gasoline",
             "category": [
-                "Run Unlocks", "Split Gas"
+                "Run Unlocks", "Split Gas", "Gas"
             ],
             "progression": true,
             "sort-key": "row-0-1"
@@ -20,7 +20,7 @@
         {
             "name": "Lighter",
             "category": [
-                "Run Unlocks", "Split Gas"
+                "Run Unlocks", "Split Gas", "Gas"
             ],
             "progression": true,
             "sort-key": "row-1-1"
@@ -28,7 +28,7 @@
         {
             "name": "Gasoline and Lighter",
             "category": [
-                "Run Unlocks", "All Gas"
+                "Run Unlocks", "All Gas", "Gas"
             ],
             "progression": true,
             "sort-key": "row-0-1"
@@ -180,7 +180,7 @@
             "sort-key": "row-4-6"
         },
         {
-            "name": "Entrance",
+            "name": "Entrance Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -188,7 +188,7 @@
             "sort-key": "row-4-0"
         },
         {
-            "name": "Backstage",
+            "name": "Backstage Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -196,7 +196,7 @@
             "sort-key": "row-4-1"
         },
         {
-            "name": "Stage",
+            "name": "Stage Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -204,7 +204,7 @@
             "sort-key": "row-4-2"
         },
         {
-            "name": "Dining Room",
+            "name": "Dining Room Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -212,7 +212,7 @@
             "sort-key": "row-4-3"
         },
         {
-            "name": "Kitchen",
+            "name": "Kitchen Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -220,7 +220,7 @@
             "sort-key": "row-4-4"
         },
         {
-            "name": "Prize Corner",
+            "name": "Prize Corner Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -228,7 +228,7 @@
             "sort-key": "row-4-5"
         },
         {
-            "name": "Arcade",
+            "name": "Arcade Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -236,7 +236,7 @@
             "sort-key": "row-4-6"
         },
         {
-            "name": "Maintenance",
+            "name": "Maintenance Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -244,7 +244,7 @@
             "sort-key": "row-4-7"
         },
         {
-            "name": "Storage",
+            "name": "Storage Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -252,7 +252,7 @@
             "sort-key": "row-4-8"
         },
         {
-            "name": "Left Hall",
+            "name": "Left Hall Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -260,7 +260,7 @@
             "sort-key": "row-4-9"
         },
         {
-            "name": "Right Hall",
+            "name": "Right Hall Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -268,7 +268,7 @@
             "sort-key": "row-4-10"
         },
         {
-            "name": "Left Vent",
+            "name": "Left Vent Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
@@ -276,7 +276,7 @@
             "sort-key": "row-4-11"
         },
         {
-            "name": "Right Vent",
+            "name": "Right Vent Camera",
             "category": [
                 "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
