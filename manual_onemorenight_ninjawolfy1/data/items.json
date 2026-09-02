@@ -2,464 +2,277 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
-            "name": "Item Name for OptionCount Example",
-            "count": 5,
-            "progression": true
-        },
-        {
-            "name": "Jill",
+            "name": "Broken Flashlight",
             "category": [
-                "Characters",
-                "Left Side"
+                "Run Unlocks"
             ],
-            "value": {"star": 5, "coins": 3},
-            "sort-key": "row-0-1",
-            "classification_count": {"useful + progression": 1, "useful": 1},
-            "_comment": "In this example a copy of the 'Jill' item will be created that is useful & progression and another will be created just useful"
-        },
-        {
-            "name": "Shuma-Gorath",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "value": {"star": 5},
             "progression": true,
-            "sort-key": "row-0-8"
+            "sort-key": "row-0-0"
         },
         {
-            "name": "Nemesis T-Type",
+            "name": "Gasoline",
             "category": [
-                "Characters",
-                "Left Side"
+                "Run Unlocks", "Split Gas"
             ],
-            "value": {"coins": 7},
+            "progression": true,
+            "sort-key": "row-0-1"
+        },
+        {
+            "name": "Lighter",
+            "category": [
+                "Run Unlocks", "Split Gas"
+            ],
             "progression": true,
             "sort-key": "row-1-1"
         },
         {
-            "name": "Firebrand",
+            "name": "Gasoline and Lighter",
             "category": [
-                "Characters",
-                "Left Side"
+                "Run Unlocks", "All Gas"
             ],
             "progression": true,
-            "sort-key": "row-1-2"
+            "sort-key": "row-0-1"
         },
         {
-            "name": "Strider Hiryu",
+            "name": "Piece of Paper",
             "category": [
-                "Characters",
-                "Left Side"
+                "Run Unlocks"
             ],
             "progression": true,
-            "sort-key": "row-1-3"
+            "count": 4,
+            "sort-key": "row-0-2"
         },
         {
-            "name": "Phoenix Wright",
+            "name": "Puppet Mask",
             "category": [
-                "Characters",
-                "Left Side"
+                "Run Unlocks"
             ],
             "progression": true,
-            "sort-key": "row-1-4"
+            "sort-key": "row-0-3"
         },
         {
-            "name": "Nova",
+            "name": "Hands",
             "category": [
-                "Characters",
-                "Right Side"
+                "Tools"
             ],
             "progression": true,
-            "sort-key": "row-1-5"
+            "sort-key": "row-2-0"
         },
         {
-            "name": "Ghost Rider",
+            "name": "Flashlight",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-6"
-        },
-        {
-            "name": "Hawkeye",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-7"
-        },
-        {
-            "name": "Doctor Strange",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-1-8"
-        },
-        {
-            "name": "Chris",
-            "category": [
-                "Characters",
-                "Left Side"
+                "Tools"
             ],
             "progression": true,
             "sort-key": "row-2-1"
         },
         {
-            "name": "Arthur",
+            "name": "Mask",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Mask"
             ],
             "progression": true,
             "sort-key": "row-2-2"
         },
         {
-            "name": "Frank West",
+            "name": "Doors",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Doors", "All Doors"
             ],
             "progression": true,
             "sort-key": "row-2-3"
         },
         {
-            "name": "Vergil",
+            "name": "Left Door",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Doors", "Split Doors"
             ],
             "progression": true,
-            "sort-key": "row-2-4"
+            "sort-key": "row-3-0"
         },
         {
-            "name": "Iron Fist",
+            "name": "Back Door",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-5"
-        },
-        {
-            "name": "Rocket Raccoon",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-6"
-        },
-        {
-            "name": "Captain America",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-7"
-        },
-        {
-            "name": "Dormammu",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-2-8"
-        },
-        {
-            "name": "Wesker",
-            "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Doors", "Split Doors"
             ],
             "progression": true,
             "sort-key": "row-3-1"
         },
         {
-            "name": "Zero",
+            "name": "Right Door",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Doors", "Split Doors"
             ],
             "progression": true,
             "sort-key": "row-3-2"
         },
         {
-            "name": "Ryu",
+            "name": "Laptop",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Camera Access", "Cameras"
             ],
             "progression": true,
-            "sort-key": "row-3-3"
+            "sort-key": "row-2-4"
         },
         {
-            "name": "Dante",
+            "name": "Halls",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
-            "sort-key": "row-3-4"
+            "sort-key": "row-4-0"
         },
         {
-            "name": "Deadpool",
+            "name": "Storage + Right Vent",
             "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-5"
-        },
-        {
-            "name": "Wolverine",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-6"
-        },
-        {
-            "name": "Iron Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-7"
-        },
-        {
-            "name": "Doctor Doom",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-3-8"
-        },
-        {
-            "name": "Morrigan",
-            "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-1"
         },
         {
-            "name": "Tron",
+            "name": "Kitchen",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-2"
         },
         {
-            "name": "Chun-Li",
+            "name": "Maintenance + Left Vent",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-3"
         },
         {
-            "name": "Trish",
+            "name": "Arcade + Prize Corner",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-4"
         },
         {
-            "name": "X-23",
+            "name": "Dining Room + Stage + Backstage",
             "category": [
-                "Characters",
-                "Right Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-5"
         },
         {
-            "name": "Storm",
+            "name": "Entrance",
             "category": [
-                "Characters",
-                "Right Side"
+                "Tools", "Cameras", "Split Cameras", "Bundled Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-6"
         },
         {
-            "name": "Thor",
+            "name": "Entrance",
             "category": [
-                "Characters",
-                "Right Side"
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-0"
+        },
+        {
+            "name": "Backstage",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-1"
+        },
+        {
+            "name": "Stage",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-2"
+        },
+        {
+            "name": "Dining Room",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-3"
+        },
+        {
+            "name": "Kitchen",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-4"
+        },
+        {
+            "name": "Prize Corner",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-5"
+        },
+        {
+            "name": "Arcade",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
+            ],
+            "progression": true,
+            "sort-key": "row-4-6"
+        },
+        {
+            "name": "Maintenance",
+            "category": [
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-7"
         },
         {
-            "name": "M.O.D.O.K.",
+            "name": "Storage",
             "category": [
-                "Characters",
-                "Right Side"
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
             "progression": true,
             "sort-key": "row-4-8"
         },
         {
-            "name": "Felicia",
+            "name": "Left Hall",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
             "progression": true,
-            "sort-key": "row-5-1"
+            "sort-key": "row-4-9"
         },
         {
-            "name": "Spencer",
+            "name": "Right Hall",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
             "progression": true,
-            "sort-key": "row-5-2"
+            "sort-key": "row-4-10"
         },
         {
-            "name": "Akuma",
+            "name": "Left Vent",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
             "progression": true,
-            "sort-key": "row-5-3"
+            "sort-key": "row-4-11"
         },
         {
-            "name": "Viewtiful Joe",
+            "name": "Right Vent",
             "category": [
-                "Characters",
-                "Left Side"
+                "Tools", "Cameras", "Split Cameras", "Individual Cameras"
             ],
             "progression": true,
-            "sort-key": "row-5-4"
-        },
-        {
-            "name": "Spider-Man",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-5"
-        },
-        {
-            "name": "Sentinel",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-6"
-        },
-        {
-            "name": "Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-7"
-        },
-        {
-            "name": "Super-Skrull",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-5-8"
-        },
-        {
-            "name": "Hsien-Ko",
-            "category": [
-                "Characters",
-                "Left Side",
-                "Trash"
-            ],
-            "progression": true,
-            "sort-key": "row-6-1"
-        },
-        {
-            "name": "Haggar",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-2"
-        },
-        {
-            "name": "C. Viper",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-3"
-        },
-        {
-            "name": "Amaterasu",
-            "category": [
-                "Characters",
-                "Left Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-4"
-        },
-        {
-            "name": "Phoenix",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-5"
-        },
-        {
-            "name": "Magneto",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-6"
-        },
-        {
-            "name": "She-Hulk",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-7"
-        },
-        {
-            "name": "Taskmaster",
-            "category": [
-                "Characters",
-                "Right Side"
-            ],
-            "progression": true,
-            "sort-key": "row-6-8"
+            "sort-key": "row-4-12"
         }
     ]
 }
