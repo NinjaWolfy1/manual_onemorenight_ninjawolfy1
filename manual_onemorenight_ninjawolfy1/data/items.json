@@ -304,6 +304,283 @@
                 "Hub Gear", "Mains"
             ],
             "sort-key": "row-5-3"
+        },
+        {
+            "name": "Flash Ring",
+            "category": [
+                "Mains", "Light"
+            ],
+            "progression": true,
+            "useful": true,
+            "sort-key": "row-6-0"
+        },
+        {
+            "name": "Spare Mask",
+            "category": [
+                "Mains", "Mask"
+            ],
+            "progression": true,
+            "useful": true,
+            "sort-key": "row-6-1"
+        },
+        {
+            "name": "Camera Panel",
+            "category": [
+                "Mains", "Camera Access"
+            ],
+            "progression": true,
+            "useful": true,
+            "sort-key": "row-6-2"
+        },
+        {
+            "name": "Handheld Music Box",
+            "category": [
+                "Mains"
+            ],
+            "progression": true,
+            "useful": true,
+            "sort-key": "row-6-3"
+        },
+        {
+            "name": "Adrenaline",
+            "category": [
+                "Mains"
+            ],
+            "useful": true,
+            "sort-key": "row-6-4"
+        },
+        {
+            "name": "Pocket Bell",
+            "category": [
+                "Mains"
+            ],
+            "filler": true,
+            "sort-key": "row-6-5"
+        },
+        {
+            "name": "Guilty Memory",
+            "category": [
+                "Mains"
+            ],
+            "useful": true,
+            "sort-key": "row-6-6"
+        },
+        {
+            "name": "Empowered Paint Brush",
+            "category": [
+                "Mains"
+            ],
+            "useful": true,
+            "sort-key": "row-6-6"
+        },
+        {
+            "name": "Quick Step",
+            "category": [
+                "Mains"
+            ],
+            "useful": true,
+            "sort-key": "row-6-7"
+        },
+        {
+            "name": "Realistic Gun",
+            "category": [
+                "Mains"
+            ],
+            "filler": true,
+            "sort-key": "row-6-8"
+        },
+        {
+            "name": "New Shoes",
+            "category": [
+                "Mains"
+            ],
+            "useful": true,
+            "sort-key": "row-6-9"
+        },
+        {
+            "name": "Iron Lungs",
+            "category": [
+                "Mains"
+            ],
+            "useful": true,
+            "sort-key": "row-6-10"
+        },
+        {
+            "name": "Witches Brew",
+            "category": [
+                "Mains"
+            ],
+            "filler": true,
+            "sort-key": "row-6-11"
+        },
+        {
+            "name": "Barry's Hat",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-0"
+        },
+        {
+            "name": "Red Flag",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-1"
+        },
+        {
+            "name": "Dry's Calculator",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-2"
+        },
+        {
+            "name": "Figure Glowstick",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-3"
+        },
+        {
+            "name": "Giftbox",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-4"
+        },
+        {
+            "name": "My Heart Locket",
+            "category": [
+                "Starters"
+            ],
+            "useful": true, (Add custom classification with dying achievement)
+            "sort-key": "row-7-5"
+        },
+        {
+            "name": "Isra's Chicken",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-6"
+        },
+        {
+            "name": "Jordi's Paint Brush",
+            "category": [
+                "Starters"
+            ],
+            "progression": true,
+            "useful": true,
+            "sort-key": "row-7-7"
+        },
+        {
+            "name": "Broken Lightbulb",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-8"
+        },
+        {
+            "name": "Safety Helmet",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-9"
+        },
+        {
+            "name": "My own Shadow",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-10"
+        },
+        {
+            "name": "Spare Batteries",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-11"
+        },
+        {
+            "name": "Fumo Sticker",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-12"
+        },
+        {
+            "name": "Call of the Darkness",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-13"
+        },
+        {
+            "name": "Pocket Watch",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-14"
+        },
+        {
+            "name": "Bloxy Drink",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-15"
+        },
+        {
+            "name": "Pocket Change",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-16"
+        },
+        {
+            "name": "Turbo Generator",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-17"
+        },
+        {
+            "name": "Four-Leaf Clover",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-18"
+        },
+        {
+            "name": "Telltale Heart",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-19"
+        },
+        {
+            "name": "Under my Sleeve",
+            "category": [
+                "Starters"
+            ],
+            "useful": true,
+            "sort-key": "row-7-20"
         }
     ]
 }
