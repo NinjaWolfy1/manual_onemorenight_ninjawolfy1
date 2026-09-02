@@ -70,6 +70,14 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
+    if get_option_value(multiworld, player, "fishsanity") > 0:
+        item_config["Fishing Rod"] = {"progression": 1}
+    else:
+        item_config["Fishing Rod"] = {"filler": 1}
+    if is_option_enabled(multiworld, player, "connectionCheck"):
+        item_config["Speed Coil"] = {"progression": 1}
+    else:
+        item_config["Speed Coil"] = {"useful": 1}
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage

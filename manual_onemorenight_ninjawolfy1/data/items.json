@@ -55,6 +55,7 @@
             "category": [
                 "Tools"
             ],
+            "early": true,
             "progression": true,
             "sort-key": "row-2-0"
         },
@@ -273,6 +274,36 @@
             ],
             "progression": true,
             "sort-key": "row-4-12"
+        },
+        {
+            "name": "Ocarina",
+            "category": [
+                "Hub Gear"
+            ],
+            "filler": true,
+            "sort-key": "row-5-0"
+        },
+        {
+            "name": "Fishing Rod",
+            "category": [
+                "Hub Gear"
+            ],
+            "sort-key": "row-5-1"
+        },
+        {
+            "name": "Snowball",
+            "category": [
+                "Hub Gear"
+            ],
+            "filler": true,
+            "sort-key": "row-5-2"
+        },
+        {
+            "name": "Speed Coil",
+            "category": [
+                "Hub Gear", "Mains"
+            ],
+            "sort-key": "row-5-3"
         }
     ]
 }

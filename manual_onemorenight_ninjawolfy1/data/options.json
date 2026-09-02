@@ -35,17 +35,20 @@
             "default": false,
             "group": "Example Options"
         },
-        "Example_Choice":{
+        "fishsanity":{
             "type": "Choice",
             "description": [
-                "This is a Choice",
-                "Let the user pick from a list of values",
-                "allow_custom_value let a player define their own text value",
-                "Currently the only use for Choice in Manual outside of hooks is the goal"
+                "Determines how fishing checks are included in the randomizer.",
+                "Disabled removes all checks related to fishing.",
+                "Achievements adds checks for the Fishing Achievements.",
+                "All fish gives checks for each new fish you catch.",
+                "Achievements and Fish give checks for both the fishing achievements and each fish."
             ],
             "values": {
-                "start":0,
-                "test":1
+                "Disabled":0,
+                "Achievements":1,
+                "All Fish":2,
+                "Achievements & Fish":3
              },
             "default": 0,
             "allow_custom_value": false,
