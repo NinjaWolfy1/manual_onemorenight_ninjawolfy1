@@ -22,8 +22,13 @@
         }
     },
     "user": {
-        "_commented_out_option":{
+        "connectionCheck":{
+            "display_name": "Include Connection Check",
             "type": "Toggle",
+            "description": [
+                "Adds a check for reaching the Connection Secret in the Hub.",
+                "If already completed on your account, just unlock the check when you reach it."
+            ],
             "default": true
         },
         "Example_Toggle":{
