@@ -23,7 +23,7 @@
                 "Run Unlocks", "Split Gas", "Gas"
             ],
             "progression": true,
-            "sort-key": "row-1-1"
+            "sort-key": "row-0-2"
         },
         {
             "name": "Gasoline and Lighter",
@@ -40,7 +40,7 @@
             ],
             "progression": true,
             "count": 4,
-            "sort-key": "row-0-2"
+            "sort-key": "row-0-3"
         },
         {
             "name": "Puppet Mask",
@@ -48,7 +48,7 @@
                 "Run Unlocks"
             ],
             "progression": true,
-            "sort-key": "row-0-3"
+            "sort-key": "row-0-4"
         },
         {
             "name": "Sandbox Mode",
@@ -56,7 +56,55 @@
                 "Run Unlocks", "Sandbox Unlock"
             ],
             "progression": true,
-            "sort-key": "row-0-4"
+            "sort-key": "row-0-5"
+        },
+        {
+            "name": "Guilty",
+            "category": [
+                "States of Mind"
+            ],
+            "progression": true,
+            "sort-key": "row-1-0"
+        },
+        {
+            "name": "Calm",
+            "category": [
+                "States of Mind"
+            ],
+            "progression": true,
+            "sort-key": "row-1-1"
+        },
+        {
+            "name": "Devastated",
+            "category": [
+                "States of Mind"
+            ],
+            "progression": true,
+            "sort-key": "row-1-2"
+        },
+        {
+            "name": "Scorched",
+            "category": [
+                "States of Mind"
+            ],
+            "progression": true,
+            "sort-key": "row-1-3"
+        },
+        {
+            "name": "Soaked",
+            "category": [
+                "States of Mind"
+            ],
+            "progression": true,
+            "sort-key": "row-1-4"
+        },
+        {
+            "name": "a Puppet",
+            "category": [
+                "States of Mind"
+            ],
+            "progression": true,
+            "sort-key": "row-1-5"
         },
         {
             "name": "Hands",
