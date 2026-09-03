@@ -24,6 +24,28 @@ def anyClassLevel(state: CollectionState, player: int, level: str):
     return False
 
 # You can also return a string from your function, and it will be evaluated as a requires string.
-def requiresMelee():
-    """Returns a requires string that checks if the player has unlocked the tank."""
-    return "|Figher Level:15| or |Black Belt Level:15| or |Thief Level:15|"
+def requiresCamera(multiworld: MultiWorld, player: int, camera: str):
+    """Gets the camera needed in logic and spits out the correct requires string for each camera split option."""
+    from ..Helpers import get_option_value
+
+    if get_option_value(multiworld, player, "split_cameras") == 0:
+        return None
+    elif get_option_value(multiworld, player, "split_cameras") == 2:
+        camera = "|" + camera + " Camera|"
+        return camera
+    else:
+        if "Hall" in camera:
+            return "|Halls|"
+        elif camera == "Storage" or camera == "Right Vent":
+            return "|Storage + Right Vent|"
+        elif camera == "Kitchen" or camera == "Entrance":
+            camera = "|" + camera + "|"
+            return camera
+        elif camera == "Maintenance" or camera == "Left Vent":
+            return "|Maintenance + Left Vent|"
+        elif camera == "Arcade" or camera == "Prize Corner":
+            return "|Arcade + Prize Corner|"
+        elif camera == "Dining Room" or camera == "Stage" or camera == "Backstage":
+            return "|Dining Room + Stage + Backstage|"
+        else:
+            return "Error"
