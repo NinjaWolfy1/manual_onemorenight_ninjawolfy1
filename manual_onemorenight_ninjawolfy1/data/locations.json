@@ -581,7 +581,398 @@
             ],
             "region": "New Run",
             "requires": "{YamlEnabled(hard_logic)} OR |Handheld Music Box| OR |a Puppet|"
+        },
+        {
+            "name": "Empty-Handed",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": ""
+        },
+        {
+            "name": "No time to think",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": ""
+        },
+        {
+            "name": "Broken Body",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": ""
+        },
+        {
+            "name": "Broken Soul",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": "|Calm| AND |My Heart Locket|"
+        },
+        {
+            "name": "Emptiness",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "|@Tools:2| AND (|My own Shadow| OR (|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|)"
+        },
+        {
+            "name": "Empty Victory",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": ""
+        },
+        {
+            "name": "Let there be light!",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "|Flashlight|"
+        },
+        {
+            "name": "Green Runner",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "Gone Outside",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": ""
+        },
+        {
+            "name": "I'm Him",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "(|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|"
+        },
+        {
+            "name": "Overcharged",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "(|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|"
+        },
+        {
+            "name": "Hard Worker",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": ""
+        },
+        {
+            "name": "No Power, No Problem",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "(|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|"
+        },
+        {
+            "name": "The rich get richer",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": ""
+        },
+        {
+            "name": "Pulled by Strings",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "FS",
+            "requires": "|a Puppet|"
+        },
+        {
+            "name": "Burning with you",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "BiD",
+            "requires": "|Scorched|"
+        },
+        {
+            "name": "Soaked in Guilt",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "PtWP",
+            "requires": "|Soaked|"
+        },
+        {
+            "name": "I called for help.",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "TitN",
+            "requires": "|Guilty|"
+        },
+        {
+            "name": "Never Tired",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": ""
+        },
+        {
+            "name": "Stardust Crusaders",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "(|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|"
+        },
+        {
+            "name": "Unfortune",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "|Four-Leaf Clover| OR (|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|"
+        },
+        {
+            "name": "Are you ready for Barry?",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "{CanReachLocation(Barry)} AND ({YamlEnabled(hard_logic)} OR {OptAll(|Doors| AND |Right Door|)}) AND ((|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|)"
+        },
+        {
+            "name": "Self-Embodiment of Perfection",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "Sandbox",
+            "requires": "|Hands| AND |Flashlight| AND |Mask| AND |Laptop| AND {CanReachLocation(Barry)} AND {OptAll(|Doors| AND |Left Door| AND |Right Door|)}"
+        },
+        {
+            "name": "Fighting the Thoughts",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "Sandbox",
+            "requires": "|Hands| AND |@Split Cameras:ALL| AND |Flashlight| AND |@Doors:ALL| AND ((|Laptop| AND |@Mask|) OR (|Mask| AND |@Camera Access|))"
+        },
+        {
+            "name": "All Figured Out",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "(|@Tools:3| AND {YamlDisabled(split_doors)}) OR |@Tools:4|"
+        },
+        {
+            "name": "Chicken%",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "{CanReachLocation(Isra)}"
+        },
+        {
+            "name": "No Power Needed",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "Sandbox",
+            "requires": "|Flashlight| AND |Hands| AND |@Mask|"
+        },
+        {
+            "name": "Minesweeper",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "Sandbox",
+            "requires": "|Hands| AND |@Camera Access| AND {requiresCamera(Kitchen)} AND {OptOne(Food Delivery)}"
+        },
+        {
+            "name": "Music of the Past",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "Sandbox",
+            "requires": "|Flashlight| AND |@Camera Access| AND |@Split Cameras:ALL| AND {OptAll(|Doors| AND |Left Door| AND |Right Door|)}"
+        },
+        {
+            "name": "Feel my Flame",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "Sandbox",
+            "requires": "|Hands| AND |@Doors:ALL| AND |Laptop| AND {CanReachLocation(Cadence)} AND {requiresCamera(Left Vent)} AND {requiresCamera(Right Vent)} AND (({OptOne(Music Box)} AND {requiresCamera(Prize Corner)}) OR ({requiresCamera(Arcade)} AND {requiresCamera(Maintenance)} AND {requiresCamera(Left Hall)} AND {requiresCamera(Right Hall)} AND {requiresCamera(Storage)} AND {requiresCamera(Kitchen)} AND {requiresCamera(Backstage)} AND {requiresCamera(Entrance)}))"
+        },
+        {
+            "name": "Not Today, girl!",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Quick Thinker",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
+            ],
+            "region": "Sandbox",
+            "requires": "|@Doors:ALL| AND |@Mask|"
+        },
+        {
+            "name": "Unmasked",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "",
+            "requires": ""
+        },
+        {
+            "name": "",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "",
+            "requires": ""
         }
     ]
 }
-
