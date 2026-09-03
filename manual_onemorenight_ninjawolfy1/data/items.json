@@ -284,19 +284,59 @@
             "sort-key": "row-4-12"
         },
         {
+            "name": "Music Box",
+            "category": [
+                "Sub-Tools"
+            ],
+            "progression": true,
+            "sort-key": "row-5-0"
+        },
+        {
+            "name": "Audio Lure",
+            "category": [
+                "Sub-Tools"
+            ],
+            "progression": true,
+            "sort-key": "row-5-1"
+        },
+        {
+            "name": "Power Generator",
+            "category": [
+                "Sub-Tools"
+            ],
+            "progression": true,
+            "sort-key": "row-5-2"
+        },
+        {
+            "name": "Arcade Reboot",
+            "category": [
+                "Sub-Tools"
+            ],
+            "progression": true,
+            "sort-key": "row-5-3"
+        },
+        {
+            "name": "Food Delivery",
+            "category": [
+                "Sub-Tools"
+            ],
+            "progression": true,
+            "sort-key": "row-5-4"
+        },
+        {
             "name": "Ocarina",
             "category": [
                 "Hub Gear"
             ],
             "filler": true,
-            "sort-key": "row-5-0"
+            "sort-key": "row-6-0"
         },
         {
             "name": "Fishing Rod",
             "category": [
                 "Hub Gear"
             ],
-            "sort-key": "row-5-1"
+            "sort-key": "row-6-1"
         },
         {
             "name": "Snowball",
@@ -304,14 +344,14 @@
                 "Hub Gear"
             ],
             "filler": true,
-            "sort-key": "row-5-2"
+            "sort-key": "row-6-2"
         },
         {
             "name": "Speed Coil",
             "category": [
                 "Hub Gear", "Mains"
             ],
-            "sort-key": "row-5-3"
+            "sort-key": "row-6-3"
         },
         {
             "name": "Flash Ring",
@@ -320,7 +360,7 @@
             ],
             "progression": true,
             "useful": true,
-            "sort-key": "row-6-0"
+            "sort-key": "row-7-0"
         },
         {
             "name": "Spare Mask",
@@ -329,7 +369,7 @@
             ],
             "progression": true,
             "useful": true,
-            "sort-key": "row-6-1"
+            "sort-key": "row-7-1"
         },
         {
             "name": "Camera Panel",
@@ -338,7 +378,7 @@
             ],
             "progression": true,
             "useful": true,
-            "sort-key": "row-6-2"
+            "sort-key": "row-7-2"
         },
         {
             "name": "Handheld Music Box",
@@ -347,7 +387,7 @@
             ],
             "progression": true,
             "useful": true,
-            "sort-key": "row-6-3"
+            "sort-key": "row-7-3"
         },
         {
             "name": "Adrenaline",
@@ -355,7 +395,7 @@
                 "Mains"
             ],
             "useful": true,
-            "sort-key": "row-6-4"
+            "sort-key": "row-7-4"
         },
         {
             "name": "Pocket Bell",
@@ -363,7 +403,7 @@
                 "Mains"
             ],
             "filler": true,
-            "sort-key": "row-6-5"
+            "sort-key": "row-7-5"
         },
         {
             "name": "Guilty Memory",
@@ -371,7 +411,7 @@
                 "Mains"
             ],
             "useful": true,
-            "sort-key": "row-6-6"
+            "sort-key": "row-7-6"
         },
         {
             "name": "Empowered Paint Brush",
@@ -379,7 +419,7 @@
                 "Mains"
             ],
             "useful": true,
-            "sort-key": "row-6-6"
+            "sort-key": "row-7-6"
         },
         {
             "name": "Quick Step",
@@ -387,7 +427,7 @@
                 "Mains"
             ],
             "useful": true,
-            "sort-key": "row-6-7"
+            "sort-key": "row-7-7"
         },
         {
             "name": "Realistic Gun",
@@ -395,7 +435,7 @@
                 "Mains"
             ],
             "filler": true,
-            "sort-key": "row-6-8"
+            "sort-key": "row-7-8"
         },
         {
             "name": "New Shoes",
@@ -403,7 +443,7 @@
                 "Mains"
             ],
             "useful": true,
-            "sort-key": "row-6-9"
+            "sort-key": "row-7-9"
         },
         {
             "name": "Iron Lungs",
@@ -411,7 +451,7 @@
                 "Mains"
             ],
             "useful": true,
-            "sort-key": "row-6-10"
+            "sort-key": "row-7-10"
         },
         {
             "name": "Witches Brew",
@@ -419,7 +459,7 @@
                 "Mains"
             ],
             "filler": true,
-            "sort-key": "row-6-11"
+            "sort-key": "row-7-11"
         },
         {
             "name": "Barry's Hat",
@@ -427,7 +467,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-0"
+            "sort-key": "row-8-0"
         },
         {
             "name": "Red Flag",
@@ -435,7 +475,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-1"
+            "sort-key": "row-8-1"
         },
         {
             "name": "Dry's Calculator",
@@ -443,7 +483,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-2"
+            "sort-key": "row-8-2"
         },
         {
             "name": "Figure Glowstick",
@@ -451,7 +491,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-3"
+            "sort-key": "row-8-3"
         },
         {
             "name": "Giftbox",
@@ -459,7 +499,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-4"
+            "sort-key": "row-8-4"
         },
         {
             "name": "My Heart Locket",
@@ -467,7 +507,7 @@
                 "Starters"
             ],
             "useful": true, (Add custom classification with dying achievement)
-            "sort-key": "row-7-5"
+            "sort-key": "row-8-5"
         },
         {
             "name": "Isra's Chicken",
@@ -475,7 +515,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-6"
+            "sort-key": "row-8-6"
         },
         {
             "name": "Jordi's Paint Brush",
@@ -484,7 +524,7 @@
             ],
             "progression": true,
             "useful": true,
-            "sort-key": "row-7-7"
+            "sort-key": "row-8-7"
         },
         {
             "name": "Broken Lightbulb",
@@ -492,7 +532,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-8"
+            "sort-key": "row-8-8"
         },
         {
             "name": "Safety Helmet",
@@ -500,7 +540,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-9"
+            "sort-key": "row-8-9"
         },
         {
             "name": "My own Shadow",
@@ -508,7 +548,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-10"
+            "sort-key": "row-8-10"
         },
         {
             "name": "Spare Batteries",
@@ -516,7 +556,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-11"
+            "sort-key": "row-8-11"
         },
         {
             "name": "Fumo Sticker",
@@ -524,7 +564,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-12"
+            "sort-key": "row-8-12"
         },
         {
             "name": "Call of the Darkness",
@@ -532,7 +572,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-13"
+            "sort-key": "row-8-13"
         },
         {
             "name": "Pocket Watch",
@@ -540,7 +580,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-14"
+            "sort-key": "row-8-14"
         },
         {
             "name": "Bloxy Drink",
@@ -548,7 +588,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-15"
+            "sort-key": "row-8-15"
         },
         {
             "name": "Pocket Change",
@@ -556,7 +596,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-16"
+            "sort-key": "row-8-16"
         },
         {
             "name": "Turbo Generator",
@@ -564,7 +604,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-17"
+            "sort-key": "row-8-17"
         },
         {
             "name": "Four-Leaf Clover",
@@ -572,7 +612,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-18"
+            "sort-key": "row-8-18"
         },
         {
             "name": "Telltale Heart",
@@ -580,7 +620,7 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-19"
+            "sort-key": "row-8-19"
         },
         {
             "name": "Under my Sleeve",
@@ -588,7 +628,430 @@
                 "Starters"
             ],
             "useful": true,
-            "sort-key": "row-7-20"
+            "sort-key": "row-8-20"
+        },
+        {
+            "name": "Skeledude Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-0",
+            "count": 1
+        },
+        {
+            "name": "Void Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-1",
+            "count": 1
+        },
+        {
+            "name": "The Ferryman",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-2",
+            "count": 1
+        },
+        {
+            "name": "Motif Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-3",
+            "count": 1
+        },
+        {
+            "name": "Note in a bottle",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-4",
+            "count": 1
+        },
+        {
+            "name": "Paintbrush Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-5",
+            "count": 1
+        },
+        {
+            "name": "Yellow Barry Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-6",
+            "count": 2
+        },
+        {
+            "name": "Chains",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-7",
+            "count": 2
+        },
+        {
+            "name": "Fish Emoji",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-8",
+            "count": 3
+        },
+        {
+            "name": "Ticket",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-9",
+            "count": 3
+        },
+        {
+            "name": "Bad Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-10",
+            "count": 3
+        },
+        {
+            "name": "Ball Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-11",
+            "count": 3
+        },
+        {
+            "name": "Balloon Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-12",
+            "count": 3
+        },
+        {
+            "name": "Barry Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-13",
+            "count": 3
+        },
+        {
+            "name": "Bomb Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-14",
+            "count": 3
+        },
+        {
+            "name": "Broken Cat Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-15",
+            "count": 3
+        },
+        {
+            "name": "Broken Chimp Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-16",
+            "count": 3
+        },
+        {
+            "name": "Bunny Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-17",
+            "count": 3
+        },
+        {
+            "name": "Chicken Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-18",
+            "count": 3
+        },
+        {
+            "name": "Destroyman III",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-19",
+            "count": 3
+        },
+        {
+            "name": "Dry Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-20",
+            "count": 3
+        },
+        {
+            "name": "Fox Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-21",
+            "count": 3
+        },
+        {
+            "name": "Fran Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-22",
+            "count": 3
+        },
+        {
+            "name": "Isra Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-23",
+            "count": 3
+        },
+        {
+            "name": "Jan Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-24",
+            "count": 3
+        },
+        {
+            "name": "Jordi \"Fish\"",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-25",
+            "count": 3
+        },
+        {
+            "name": "Kono Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-26",
+            "count": 3
+        },
+        {
+            "name": "Mango Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-27",
+            "count": 3
+        },
+        {
+            "name": "MikePike Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-28",
+            "count": 3
+        },
+        {
+            "name": "Pillar Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-29",
+            "count": 3
+        },
+        {
+            "name": "Pot0s Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-30",
+            "count": 3
+        },
+        {
+            "name": "Puppet Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-31",
+            "count": 3
+        },
+        {
+            "name": "Raptor Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-32",
+            "count": 3
+        },
+        {
+            "name": "Roxie Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-33",
+            "count": 3
+        },
+        {
+            "name": "Wormcave Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-34",
+            "count": 3
+        },
+        {
+            "name": "ZGuesto Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-35",
+            "count": 3
+        },
+        {
+            "name": "Zuffy Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-36",
+            "count": 3
+        },
+        {
+            "name": "Black Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-37",
+            "count": 4
+        },
+        {
+            "name": "Blue Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-38",
+            "count": 4
+        },
+        {
+            "name": "Cyan Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-39",
+            "count": 4
+        },
+        {
+            "name": "Green Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-40",
+            "count": 4
+        },
+        {
+            "name": "Magenta Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-41",
+            "count": 4
+        },
+        {
+            "name": "Orange Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-42",
+            "count": 4
+        },
+        {
+            "name": "Purple Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-43",
+            "count": 4
+        },
+        {
+            "name": "Red Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-44",
+            "count": 4
+        },
+        {
+            "name": "White Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-45",
+            "count": 4
+        },
+        {
+            "name": "Yellow Fish",
+            "category": [
+                "Fish"
+            ],
+            "filler": true,
+            "sort-key": "row-9-46",
+            "count": 4
         }
     ]
 }
