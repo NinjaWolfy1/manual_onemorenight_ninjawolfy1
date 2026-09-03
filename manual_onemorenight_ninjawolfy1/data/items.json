@@ -554,7 +554,6 @@
             "category": [
                 "Starters"
             ],
-            "useful": true, (Add custom classification with dying achievement)
             "sort-key": "row-8-5"
         },
         {
@@ -595,7 +594,6 @@
             "category": [
                 "Starters"
             ],
-            "useful": true,
             "sort-key": "row-8-10"
         },
         {

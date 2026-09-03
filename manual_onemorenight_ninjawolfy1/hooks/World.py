@@ -74,10 +74,18 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
         item_config["Fishing Rod"] = {"progression": 1}
     else:
         item_config["Fishing Rod"] = {"filler": 1}
-    if is_option_enabled(multiworld, player, "connectionCheck"):
+    if is_option_enabled(multiworld, player, "connection_check"):
         item_config["Speed Coil"] = {"progression": 1}
     else:
         item_config["Speed Coil"] = {"useful": 1}
+    if is_option_enabled(multiworld, player, "randomize_feats"):
+        item_config["My Heart Locket"] = {"progression": 1}
+        item_config["My own Shadow"] = {"progression": 1}
+        item_config["Four-Leaf Clover"] = {"progression": 1}
+    else:
+        item_config["My Heart Locket"] = {"useful": 1}
+        item_config["My own Shadow"] = {"useful": 1}
+        item_config["Four-Leaf Clover"] = {"useful": 1}
     return item_config
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
