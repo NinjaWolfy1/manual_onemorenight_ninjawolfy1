@@ -396,7 +396,7 @@
                 "Threat Checks"
             ],
             "region": "New Run",
-            "requires": "|Handheld Music Box| OR (|@Camera Access| AND {requiresCamera(Prize Corner)})"
+            "requires": "|Handheld Music Box| OR (|@Camera Access| AND {OptOne(Music Box)} AND ({requiresCamera(Prize Corner)} OR ({requiresCamera(Arcade)} AND {requiresCamera(Maintenance)} AND {requiresCamera(Left Hall)} AND {requiresCamera(Right Hall)} AND {requiresCamera(Storage)} AND {requiresCamera(Kitchen)} AND {requiresCamera(Backstage)} AND {requiresCamera(Entrance)})))"
         },
         {
             "name": "Raptor",
