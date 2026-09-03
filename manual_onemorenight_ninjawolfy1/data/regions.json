@@ -10,7 +10,7 @@
     },
     "New Run": {
         "connects_to": ["Trapped in the Nightmare"],
-        "requires": "|@State of Mind| AND |@Tools:2|"
+        "requires": "|@Tools:2| AND ((|Guilty| OR |Calm| OR |Devastated|) OR (|Scorched| AND |Hands|) OR (|Soaked| AND |@Doors:ALL| AND |@Camera Access| AND |@Split Cameras:ALL|) OR (|a Puppet| AND |@Camera Access| AND {requiresCamera(Arcade)} AND {requiresCamera(Maintenance)} AND {requiresCamera(Left Hall)} AND {requiresCamera(Right Hall)} AND {requiresCamera(Storage)} AND {requiresCamera(Kitchen)} AND {requiresCamera(Backstage)} AND {requiresCamera(Entrance)})"
     },
     "TitN": {
         "connects_to": ["BiD", "PtWP", "FS"],
