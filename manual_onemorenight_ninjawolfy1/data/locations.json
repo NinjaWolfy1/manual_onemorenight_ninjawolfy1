@@ -580,7 +580,7 @@
                 "Route Items"
             ],
             "region": "New Run",
-            "requires": "{YamlEnabled(hard_logic)} OR |Handheld Music Box|"
+            "requires": "{YamlEnabled(hard_logic)} OR |Handheld Music Box| OR |a Puppet|"
         }
     ]
 }
