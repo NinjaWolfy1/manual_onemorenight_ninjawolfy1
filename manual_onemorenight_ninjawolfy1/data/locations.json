@@ -52,6 +52,419 @@
             ],
             "requires": "|@Achievements:ALL|",
             "victory": true
+        },
+        {
+            "name": "Balloon Boy",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Light|"
+        },
+        {
+            "name": "Balloon Girl",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Light|"
+        },
+        {
+            "name": "Baby",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Bad",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {requiresCamera(Entrance)} AND {OptAll(|Doors| AND |Left Door| AND |Right Door|)}"
+        },
+        {
+            "name": "Ball",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Barry",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND ({requiresCamera(Dining Room)} OR {requiresCamera(Kitchen)} OR {requiresCamera(Storage)})"
+        },
+        {
+            "name": "Funsy Barry",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{OptAll(|Doors| AND |Left Door| AND |Right Door|)}"
+        },
+        {
+            "name": "New Barry",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {requiresCamera(Arcade)} AND {OptOne(Arcade Reboot)}"
+        },
+        {
+            "name": "Old Barry",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "Yellow Barry",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |Flashlight|"
+        },
+        {
+            "name": "Bomb",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Broken Cat",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{OptAll(|Doors| AND |Left Door|)} OR {OptAll(|Doors| AND |Right Door| AND {YamlEnabled(hard_logic)})}"
+        },
+        {
+            "name": "Broken Chimp",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {requiresCamera(Maintenance)} AND {requiresCamera(Storage)} AND {OptOne(Audio Lure)}"
+        },
+        {
+            "name": "Bunny",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{OptAll(|Doors| AND |Left Door|)} OR {OptAll(|Doors| AND |Right Door| AND {YamlEnabled(hard_logic)}))}"
+        },
+        {
+            "name": "New Bunny",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{YamlEnabled(hard_logic)} OR (|@Camera Access| AND {requiresCamera(Stage)})"
+        },
+        {
+            "name": "Old Bunny",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "Cadence",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{YamlEnabled(hard_logic)} OR (|@Camera Access| AND |Flashlight| AND {requiresCamera(Backstage)} AND {requiresCamera(Dining Room)} AND {requiresCamera(Entrance)} AND {requiresCamera(Kitchen)} AND {requiresCamera(Arcade)} AND {requiresCamera(Prize Corner)} AND {requiresCamera(Maintenance)} AND {requiresCamera(Storage Camera)})"
+        },
+        {
+            "name": "Chains",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Chicken",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{OptAll(|Doors| AND |Right Door|)} OR {OptAll(|Doors| AND |Left Door| AND {YamlEnabled(hard_logic)}))}"
+        },
+        {
+            "name": "New Chicken",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {requiresCamera(Kitchen)} AND {OptOne(Food Delivery)}"
+        },
+        {
+            "name": "Old Chicken",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "Destroyman III",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |@Split Cameras:ALL|"
+        },
+        {
+            "name": "Dry",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Figure",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {OptOne(Audio Lure)} AND ({requiresCamera(Entrance)} OR {requiresCamera(Dining Room)} OR (({requiresCamera(Arcade)} OR {requiresCamera(Maintenance)}) AND ({requiresCamera(Kitchen)} OR {requiresCamera(Storage Camera)})))"
+        },
+        {
+            "name": "Fox",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |Flashlight| AND {requiresCamera(Prize Corner)}"
+        },
+        {
+            "name": "Funsy Fox",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {requiresCamera(Stage)}"
+        },
+        {
+            "name": "Old Fox",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |Flashlight| AND {requiresCamera(Left Hall)} AND {requiresCamera(Right Hall)}"
+        },
+        {
+            "name": "Fran",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{OptAll(|Doors| AND |Left Door| AND |Right Door|)}"
+        },
+        {
+            "name": "Glitch",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |Flashlight| AND {requiresCamera(Left Hall)} AND {requiresCamera(Right Hall)}"
+        },
+        {
+            "name": "Hesitation",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Isra",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |Flashlight| AND {requiresCamera(Entrance)} AND {requiresCamera(Dining Room)} AND {requiresCamera(Kitchen)} AND {requiresCamera(Arcade)} AND {requiresCamera(Maintenance)} AND {requiresCamera(Storage)}"
+        },
+        {
+            "name": "Jan",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Jaws",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "Jordi \"Jumpscare\"",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Doors:ALL|"
+        },
+        {
+            "name": "Kono",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Light|"
+        },
+        {
+            "name": "Mango",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Light|"
+        },
+        {
+            "name": "Mart",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "MikePike",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "My Shadow",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Doors:ALL|"
+        },
+        {
+            "name": "Noob",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask| OR (|@Camera Access| AND {requiresCamera(Entrance)} AND {requiresCamera(Arcade)} AND {requiresCamera(Prize Corner)} AND {requiresCamera(Dining Room)} AND {requiresCamera(Kitchen)} AND {requiresCamera(Storage)} AND {requiresCamera(Maintenance)})"
+        },
+        {
+            "name": "Pillar",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Pot0s",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Puppet",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Handheld Music Box| OR (|@Camera Access| AND {requiresCamera(Prize Corner)})"
+        },
+        {
+            "name": "Raptor",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask| OR (|@Camera Access| AND |Flashlight| AND {requiresCamera(Backstage)}"
+        },
+        {
+            "name": "Roxie",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Rush",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "(|@Mask| AND {YamlCompare(player_count == 1)}) OR {OptAll(|Doors| AND |Left Door| AND |Right Door|)}" (Check for 2 player with Spare Mask)
+        },
+        {
+            "name": "Screech",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Strings",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Light|"
+        },
+        {
+            "name": "Toxicity",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Mask|"
+        },
+        {
+            "name": "Ventilation Errors",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|Hands|"
+        },
+        {
+            "name": "Void",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": ""
+        },
+        {
+            "name": "Wormcave",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND |Flashlight| AND {requiresCamera(Backstage)} AND {requiresCamera(Entrance)} AND {requiresCamera(Prize Corner)}"
+        },
+        {
+            "name": "ZGuesto",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "{OptAll(|Doors| AND |Back Door|)} AND ({YamlCompare(player_count == 1) OR (|@Camera Access| AND {requiresCamera(Entrance)}"
+        },
+        {
+            "name": "Zuffy",
+            "category": [
+                "Threat Checks"
+            ],
+            "requires": "|@Camera Access| AND {requiresCamera(Left Vent)} AND {requiresCamera(Right Vent)}"
+        },
+        {
+            "name": "Heat",
+            "category": [
+                "Threat Checks", "Special Threats"
+            ],
+            "requires": "|Scorched| AND |Hands|"
+        },
+        {
+            "name": "Divine Punishment",
+            "category": [
+                "Threat Checks", "Special Threats", "J-Choices"
+            ],
+            "requires": "|Soaked| OR (|Jordi's Paint Brush| AND |Broken Flashlight| AND |@Light| AND |Piece of Paper: 4| AND |@Doors:ALL|)"
+        },
+        {
+            "name": "Golden Gun",
+            "category": [
+                "Threat Checks", "Special Threats", "J-Choices"
+            ],
+            "requires": "|Soaked| OR (|Jordi's Paint Brush| AND |Broken Flashlight| AND |@Light| AND |Piece of Paper: 4| AND |@Doors:ALL|)"
+        },
+        {
+            "name": "Stratosfear",
+            "category": [
+                "Threat Checks", "Special Threats", "J-Choices"
+            ],
+            "requires": "|@Camera Access| AND |@Split Cameras:ALL| AND (|Soaked| OR (|Jordi's Paint Brush| AND |Broken Flashlight| AND |@Light| AND |Piece of Paper: 4| AND |@Doors:ALL|))"
+        },
+        {
+            "name": "White",
+            "category": [
+                "Threat Checks", "Special Threats", "J-Choices"
+            ],
+            "requires": "|@Light| AND (|Soaked| OR (|Jordi's Paint Brush| AND |Broken Flashlight| AND |Piece of Paper: 4| AND |@Doors:ALL|))"
         }
     ]
 }
