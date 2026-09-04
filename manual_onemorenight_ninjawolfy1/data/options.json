@@ -55,7 +55,7 @@
         "split_doors":{
             "display_name": "Split Doors",
             "description": [
-                "When enabled, each door is randomized individually."
+                "When enabled, each door is randomized individually instead of received altogether."
             ],
             "type": "Toggle",
             "default": true,
