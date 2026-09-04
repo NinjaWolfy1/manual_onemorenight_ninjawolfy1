@@ -158,14 +158,14 @@
         {
             "name": "Self-Embodiment of Perfection",
             "category": [
-                "Achievements", "Threats and Challenges", "Achievement Sanity"
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
             ],
             "copy_location": "Self-Embodiment of Perfection"
         },
         {
             "name": "Fighting the Thoughts",
             "category": [
-                "Achievements", "Threats and Challenges", "Achievement Sanity"
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
             ],
             "copy_location": "Fighting the Thoughts"
         },
@@ -186,28 +186,28 @@
         {
             "name": "No Power Needed",
             "category": [
-                "Achievements", "Threats and Challenges", "Achievement Sanity"
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
             ],
             "copy_location": "No Power Needed"
         },
         {
             "name": "Minesweeper",
             "category": [
-                "Achievements", "Threats and Challenges", "Achievement Sanity"
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
             ],
             "copy_location": "Minesweeper"
         },
         {
             "name": "Music of the Past",
             "category": [
-                "Achievements", "Threats and Challenges", "Achievement Sanity"
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
             ],
             "copy_location": "Music of the Past"
         },
         {
             "name": "Feel my Flame",
             "category": [
-                "Achievements", "Threats and Challenges", "Achievement Sanity"
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
             ],
             "copy_location": "Feel my Flame"
         },
