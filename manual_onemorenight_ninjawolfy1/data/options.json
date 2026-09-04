@@ -31,6 +31,13 @@
             ],
             "default": true
         },
+        "starting_sandbox":{
+            "display_name": "Start With Sandbox",
+            "type": "Toggle",
+            "description": [
+                "Determines whether you start the randomizer with access to the Sandbox."
+            ]
+        },
         "hard_logic":{
             "display_name": "Hard Logic",
             "type": "Toggle",
@@ -71,6 +78,12 @@
              },
             "default": 0,
             "group": "Example Options"
+        },
+        "featsanity":{
+            "type": "Toggle",
+            "description": [
+                "Adds checks for each Feat"
+            ]
         },
         "fishsanity":{
             "type": "Choice",
