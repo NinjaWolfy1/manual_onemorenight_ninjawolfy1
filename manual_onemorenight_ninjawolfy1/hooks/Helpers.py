@@ -11,6 +11,11 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
         return (get_option_value(multiworld, player, "fishsanity") % 2) == 1
     if category_name == "Fish":
         return get_option_value(multiworld, player, "fishsanity") >= 2
+    
+    if category_name == "Bundled Cameras":
+        return get_option_value(multiworld, player, "split_cameras") == 1
+    if category_name == "Individual Cameras":
+        return get_option_value(multiworld, player, "split_cameras") == 2
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled

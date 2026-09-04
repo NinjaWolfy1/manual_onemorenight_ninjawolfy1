@@ -22,22 +22,45 @@
         }
     },
     "user": {
-        "connectionCheck":{
-            "display_name": "Include Connection Check",
+        "starting_hands":{
+            "display_name": "Start With Hands",
             "type": "Toggle",
             "description": [
-                "Adds a check for reaching the Connection Secret in the Hub.",
-                "If already completed on your account, just unlock the check when you reach it."
+                "Determines whether you start the randomizer with Hands unlocked.",
+                "Even when disabled, Hands will always appear in Sphere 1."
             ],
             "default": true
         },
-        "Example_Toggle":{
+        "hard_logic":{
+            "display_name": "Hard Logic",
+            "type": "Toggle",
+            "default": false
+        },
+        "split_doors":{
+            "display_name": "Split Doors",
             "description": [
-                "This is a Toggle",
-                "A simple boolean, aka True or False set the initial value with \"default\""
+                "When enabled, each door is randomized individually."
             ],
             "type": "Toggle",
-            "default": false,
+            "default": true,
+            "group": "Example Options"
+        },
+        "split_cameras":{
+            "display_name": "Split Cameras",
+            "type": "Choice",
+            "description": [
+                "Determines whether individual cameras are randomized.",
+                "If you can access the Cameras, you can only switch to Cameras you have received.",
+                "Disabled - All cameras are available immediately.",
+                "Bundled - Cameras are unlocked in groups that match the way they're burned in BiD.",
+                "Individual - Each Camera is its own item in the randomizer."
+            ],
+            "values": {
+                "Disabled":0,
+                "Bundled":1,
+                "Individual":2
+             },
+            "default": 0,
             "group": "Example Options"
         },
         "fishsanity":{
@@ -56,8 +79,16 @@
                 "Achievements & Fish":3
              },
             "default": 0,
-            "allow_custom_value": false,
             "group": "Example Options"
+        },
+        "connection_check":{
+            "display_name": "Include Connection Check",
+            "type": "Toggle",
+            "description": [
+                "Adds a check for reaching the Connection Secret in the Hub.",
+                "If already completed on your account, just unlock the check when you reach it."
+            ],
+            "default": true
         },
         "Example_Range":{
             "type": "Range",
