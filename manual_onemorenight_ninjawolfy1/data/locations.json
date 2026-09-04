@@ -420,7 +420,7 @@
                 "Threat Checks"
             ],
             "region": "New Run",
-            "requires": "(|@Mask| AND {YamlCompare(player_count == 1)}) OR {OptAll(|Doors| AND |Left Door| AND |Right Door|)}" (Check for 2 player with Spare Mask)
+            "requires": "(|@Mask| AND {YamlDisabled(multiplayer)}) OR {OptAll(|Doors| AND |Left Door| AND |Right Door|)}"
         },
         {
             "name": "Screech",
