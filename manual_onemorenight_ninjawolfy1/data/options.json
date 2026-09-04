@@ -30,7 +30,7 @@
                 "Even when disabled, Hands will always appear in Sphere 1."
             ],
             "default": true,
-            "group": ""
+            "group": "Tools Randomization"
         },
         "starting_sandbox":{
             "display_name": "Start With Sandbox",
@@ -39,13 +39,13 @@
                 "Determines whether you start the randomizer with access to the Sandbox."
             ],
             "default": true,
-            "group": ""
+            "group": "Tools Randomization"
         },
         "hard_logic":{
             "display_name": "Hard Logic",
             "type": "Toggle",
             "default": false,
-            "group": ""
+            "group": "Game Options"
         },
         "split_gas":{
             "display_name": "Split Gasoline and Lighter",
@@ -55,7 +55,7 @@
                 "This would mean when picking up Gas and Lighter, you would receive two checks instead of one."
             ],
             "default": true,
-            "group": ""
+            "group": "Tools Randomization"
         },
         "split_doors":{
             "display_name": "Split Doors",
@@ -64,7 +64,7 @@
             ],
             "type": "Toggle",
             "default": true,
-            "group": "Example Options"
+            "group": "Tools Randomization"
         },
         "split_cameras":{
             "display_name": "Split Cameras",
@@ -82,7 +82,7 @@
                 "Individual":2
              },
             "default": 0,
-            "group": "Example Options"
+            "group": "Tools Randomization"
         },
         "randomize_subtools":{
             "display_name": "Randomize Sub-Tools",
@@ -92,7 +92,7 @@
                 "Power Generator is required to used the Generator in BiD's Night 21."
             ],
             "default": false,
-            "group": ""
+            "group": "Tools Randomization"
         },
         "include_special_threats":{
             "display_name": "Special Threat Checks",
@@ -101,7 +101,7 @@
                 "Special Threats (Heat and J-Choices) have their own Threat Checks."
             ],
             "default": true,
-            "group": ""
+            "group": "Miscellaneous Locations"
         },
         "featsanity":{
             "type": "Toggle",
@@ -109,7 +109,7 @@
                 "Adds checks for each Feat."
             ],
             "default": true,
-            "group": ""
+            "group": "Achievement Options"
         },
         "challengesanity":{
             "type": "Toggle",
@@ -117,7 +117,7 @@
                 "Adds checks for each Threats and Challenges Achievement."
             ],
             "default": true,
-            "group": ""
+            "group": "Achievement Options"
         },
         "hubsanity":{
             "type": "Toggle",
@@ -125,7 +125,7 @@
                 "Adds checks for each Hub Achievement."
             ],
             "default": true,
-            "group": ""
+            "group": "Achievement Options"
         },
         "extrasanity":{
             "type": "Toggle",
@@ -133,7 +133,7 @@
                 "Adds checks for each Extra Achievement."
             ],
             "default": true,
-            "group": ""
+            "group": "Achievement Options"
         },
         "fishsanity":{
             "type": "Choice",
@@ -151,7 +151,7 @@
                 "Achievements & Fish":3
              },
             "default": 0,
-            "group": "Example Options"
+            "group": "Achievement Options"
         },
         "connection_check":{
             "display_name": "Include Connection Check",
@@ -160,7 +160,7 @@
                 "Adds a check for doing the Connection Secret in the Hub."
             ],
             "default": true,
-            "group": ""
+            "group": "Miscellaneous Locations"
         }
     }
 
