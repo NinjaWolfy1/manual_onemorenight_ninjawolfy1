@@ -977,7 +977,7 @@
         {
             "name": "Purchase Ocarina",
             "category": [
-                "Grid's Corner", "Hub Gear"
+                "Grid's Corner"
             ],
             "region": "New Run",
             "requires": "",
@@ -986,7 +986,7 @@
         {
             "name": "Purchase Fishing Rod",
             "category": [
-                "Grid's Corner", "Hub Gear"
+                "Grid's Corner"
             ],
             "region": "New Run",
             "requires": "",
@@ -995,7 +995,7 @@
         {
             "name": "Purchase Snowball",
             "category": [
-                "Grid's Corner", "Hub Gear"
+                "Grid's Corner"
             ],
             "region": "New Run",
             "requires": "",
@@ -1004,11 +1004,387 @@
         {
             "name": "Purchase Speed Coil",
             "category": [
-                "Grid's Corner", "Hub Gear"
+                "Grid's Corner"
             ],
             "region": "New Run",
             "requires": "",
             "prehint": true
+        },
+        {
+            "name": "Catch Skeledude Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Void Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch The Ferryman",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Motif Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Note in a bottle",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Paintbrush Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Yellow Barry Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Chains",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Fish Emoji",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Ticket",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Bad Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Ball Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Balloon Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Barry Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Bomb Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Broken Cat Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Broken Chimp Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Bunny Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Chicken Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Destroyman III",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Dry Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Fox Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Fran Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Isra Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Jan Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Jordi \"Fish\"",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Kono Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Mango Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch MikePike Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Pillar Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Pot0s Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Puppet Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Raptor Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Roxie Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Wormcave Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch ZGuesto Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Zuffy Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Black Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Blue Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Cyan Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Green Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Magenta Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Orange Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Purple Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Red Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch White Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Catch Yellow Fish",
+            "category": [
+                "Fish", "Fishing"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
         }
     ]
 }
