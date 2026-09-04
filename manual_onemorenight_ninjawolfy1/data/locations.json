@@ -847,7 +847,47 @@
             "requires": "|@Mask|"
         },
         {
-            "name": "",
+            "name": "Beginner Fisher",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Fishing Around",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Master of the Fishing Rod",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Seen the Fish",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "region": "Hub",
+            "requires": "|Fishing Rod|"
+        },
+        {
+            "name": "Did you shake it?",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": "{OptOne(Bloxy Cola)}"
+        },
+        {
+            "name": "THEY HAVE TO DO SOMETHING",
             "category": [
                 "Achievements", "Hub", "Achievement Sanity"
             ],
@@ -855,7 +895,7 @@
             "requires": ""
         },
         {
-            "name": "",
+            "name": "The Paint Brush",
             "category": [
                 "Achievements", "Hub", "Achievement Sanity"
             ],
@@ -863,7 +903,7 @@
             "requires": ""
         },
         {
-            "name": "",
+            "name": "The Strongest Hammer",
             "category": [
                 "Achievements", "Hub", "Achievement Sanity"
             ],
@@ -871,7 +911,15 @@
             "requires": ""
         },
         {
-            "name": "",
+            "name": "Speed Coil",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "region": "New Run",
+            "requires": ""
+        },
+        {
+            "name": "Not a Charity",
             "category": [
                 "Achievements", "Hub", "Achievement Sanity"
             ],
@@ -879,55 +927,7 @@
             "requires": ""
         },
         {
-            "name": "",
-            "category": [
-                "Achievements", "Hub", "Achievement Sanity"
-            ],
-            "region": "Hub",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Hub", "Achievement Sanity"
-            ],
-            "region": "Hub",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Hub", "Achievement Sanity"
-            ],
-            "region": "Hub",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Hub", "Achievement Sanity"
-            ],
-            "region": "Hub",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Hub", "Achievement Sanity"
-            ],
-            "region": "Hub",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Hub", "Achievement Sanity"
-            ],
-            "region": "Hub",
-            "requires": ""
-        },
-        {
-            "name": "",
+            "name": "Boop!",
             "category": [
                 "Achievements", "Extra", "Achievement Sanity"
             ],
@@ -935,43 +935,43 @@
             "requires": ""
         },
         {
-            "name": "",
+            "name": "Shiny Things make me Happy",
             "category": [
                 "Achievements", "Extra", "Achievement Sanity"
             ],
-            "region": "",
+            "region": "New Run",
             "requires": ""
         },
         {
-            "name": "",
+            "name": "I'm Prepared",
             "category": [
                 "Achievements", "Extra", "Achievement Sanity"
             ],
-            "region": "",
+            "region": "Hub",
+            "requires": "|@Main|"
+        },
+        {
+            "name": "Another Memory",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "region": "Hub",
+            "requires": "|@Starter|"
+        },
+        {
+            "name": "The power of Friendship",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity", "Multiplayer Exclusive"
+            ],
+            "region": "Hub",
             "requires": ""
         },
         {
-            "name": "",
+            "name": "Welcome",
             "category": [
                 "Achievements", "Extra", "Achievement Sanity"
             ],
-            "region": "",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Extra", "Achievement Sanity"
-            ],
-            "region": "",
-            "requires": ""
-        },
-        {
-            "name": "",
-            "category": [
-                "Achievements", "Extra", "Achievement Sanity"
-            ],
-            "region": "",
+            "region": "Hub",
             "requires": ""
         }
     ]
