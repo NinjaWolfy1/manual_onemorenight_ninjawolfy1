@@ -884,7 +884,7 @@
                 "Achievements", "Hub", "Achievement Sanity"
             ],
             "region": "Hub",
-            "requires": "{OptOne(Bloxy Cola)}"
+            "requires": ""
         },
         {
             "name": "THEY HAVE TO DO SOMETHING",
@@ -973,6 +973,42 @@
             ],
             "region": "Hub",
             "requires": ""
+        },
+        {
+            "name": "Purchase Ocarina",
+            "category": [
+                "Grid's Corner", "Hub Gear"
+            ],
+            "region": "New Run",
+            "requires": "",
+            "prehint": true
+        },
+        {
+            "name": "Purchase Fishing Rod",
+            "category": [
+                "Grid's Corner", "Hub Gear"
+            ],
+            "region": "New Run",
+            "requires": "",
+            "prehint": true
+        },
+        {
+            "name": "Purchase Snowball",
+            "category": [
+                "Grid's Corner", "Hub Gear"
+            ],
+            "region": "New Run",
+            "requires": "",
+            "prehint": true
+        },
+        {
+            "name": "Purchase Speed Coil",
+            "category": [
+                "Grid's Corner", "Hub Gear"
+            ],
+            "region": "New Run",
+            "requires": "",
+            "prehint": true
         }
     ]
 }
