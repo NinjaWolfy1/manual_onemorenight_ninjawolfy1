@@ -679,7 +679,7 @@
         {
             "name": "Skeledude Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-0",
@@ -688,7 +688,7 @@
         {
             "name": "Void Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-1",
@@ -697,7 +697,7 @@
         {
             "name": "The Ferryman",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-2",
@@ -706,7 +706,7 @@
         {
             "name": "Motif Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-3",
@@ -715,7 +715,7 @@
         {
             "name": "Note in a bottle",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-4",
@@ -724,7 +724,7 @@
         {
             "name": "Paintbrush Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-5",
@@ -733,7 +733,7 @@
         {
             "name": "Yellow Barry Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-6",
@@ -742,7 +742,7 @@
         {
             "name": "Chains",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-7",
@@ -751,7 +751,7 @@
         {
             "name": "Fish Emoji",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-8",
@@ -760,7 +760,7 @@
         {
             "name": "Ticket",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-9",
@@ -769,7 +769,7 @@
         {
             "name": "Bad Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-10",
@@ -778,7 +778,7 @@
         {
             "name": "Ball Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-11",
@@ -787,7 +787,7 @@
         {
             "name": "Balloon Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-12",
@@ -796,7 +796,7 @@
         {
             "name": "Barry Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-13",
@@ -805,7 +805,7 @@
         {
             "name": "Bomb Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-14",
@@ -814,7 +814,7 @@
         {
             "name": "Broken Cat Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-15",
@@ -823,7 +823,7 @@
         {
             "name": "Broken Chimp Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-16",
@@ -832,7 +832,7 @@
         {
             "name": "Bunny Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-17",
@@ -841,7 +841,7 @@
         {
             "name": "Chicken Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-18",
@@ -850,7 +850,7 @@
         {
             "name": "Destroyman III",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-19",
@@ -859,7 +859,7 @@
         {
             "name": "Dry Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-20",
@@ -868,7 +868,7 @@
         {
             "name": "Fox Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-21",
@@ -877,7 +877,7 @@
         {
             "name": "Fran Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-22",
@@ -886,7 +886,7 @@
         {
             "name": "Isra Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-23",
@@ -895,7 +895,7 @@
         {
             "name": "Jan Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-24",
@@ -904,7 +904,7 @@
         {
             "name": "Jordi \"Fish\"",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-25",
@@ -913,7 +913,7 @@
         {
             "name": "Kono Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-26",
@@ -922,7 +922,7 @@
         {
             "name": "Mango Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-27",
@@ -931,7 +931,7 @@
         {
             "name": "MikePike Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-28",
@@ -940,7 +940,7 @@
         {
             "name": "Pillar Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-29",
@@ -949,7 +949,7 @@
         {
             "name": "Pot0s Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-30",
@@ -958,7 +958,7 @@
         {
             "name": "Puppet Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-31",
@@ -967,7 +967,7 @@
         {
             "name": "Raptor Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-32",
@@ -976,7 +976,7 @@
         {
             "name": "Roxie Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-33",
@@ -985,7 +985,7 @@
         {
             "name": "Wormcave Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-34",
@@ -994,7 +994,7 @@
         {
             "name": "ZGuesto Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-35",
@@ -1003,7 +1003,7 @@
         {
             "name": "Zuffy Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-36",
@@ -1012,7 +1012,7 @@
         {
             "name": "Black Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-37",
@@ -1021,7 +1021,7 @@
         {
             "name": "Blue Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-38",
@@ -1030,7 +1030,7 @@
         {
             "name": "Cyan Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-39",
@@ -1039,7 +1039,7 @@
         {
             "name": "Green Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-40",
@@ -1048,7 +1048,7 @@
         {
             "name": "Magenta Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-41",
@@ -1057,7 +1057,7 @@
         {
             "name": "Orange Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-42",
@@ -1066,7 +1066,7 @@
         {
             "name": "Purple Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-43",
@@ -1075,7 +1075,7 @@
         {
             "name": "Red Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-44",
@@ -1084,7 +1084,7 @@
         {
             "name": "White Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-45",
@@ -1093,7 +1093,7 @@
         {
             "name": "Yellow Fish",
             "category": [
-                "Fish"
+                "Fish", "Fishing"
             ],
             "filler": true,
             "sort-key": "row-9-46",

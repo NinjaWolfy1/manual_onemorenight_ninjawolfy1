@@ -1,9 +1,91 @@
 {
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
-    "Example Logic only category": {
+    "Run Unlocks": {},
+    "Gas": {
         "hidden": true
     },
-    "Example Yaml-option category": {
-        "yaml_option": ["DLC_enabled"]
-    }
+    "Split Gas": {
+        "yaml_option": ["split_gas"],
+        "hidden": true
+    },
+    "All Gas": {
+        "yaml_option": ["!split_gas"],
+        "hidden": true
+    },
+    "Sandbox Unlock": {
+        "yaml_option": ["!starting_sandbox"],
+        "hidden": true
+    },
+    "States of Mind": {},
+    "Tools": {},
+    "Light": {
+        "hidden": true
+    },
+    "Mask": {
+        "hidden": true
+    },
+    "Doors": {
+        "hidden": true
+    },
+    "All Doors": {
+        "yaml_option": ["!split_doors"],
+        "hidden": true
+    },
+    "Split Doors": {
+        "yaml_option": ["split_doors"],
+        "hidden": true
+    },
+    "Camera Access": {
+        "hidden": true
+    },
+    "Cameras": {},
+    "Split Cameras": {
+        "hidden": true
+    },
+    "Individual Cameras": {
+        "hidden": true
+    },
+    "Bundled Cameras": {
+        "hidden": true
+    },
+    "Sub-Tools": {
+        "yaml_option": ["randomize_subtools"]
+    },
+    "Hub Gear": {},
+    "Mains": {},
+    "Starters": {},
+    "Fish": {
+        "hidden": true
+    },
+    "Endings": {},
+    "Achievements": {},
+    "Threat Checks": {},
+    "Special Threats": {
+        "yaml_option": ["include_special_threats"]
+    },
+    "J-Choices": {
+        "hidden": true
+    },
+    "Route Items": {},
+    "Achievement Sanity": {
+        "hidden": true
+    },
+    "Feats": {
+        "yaml_option": ["featsanity"]
+    },
+    "Threats and Challenges": {
+        "yaml_option": ["challengesanity"]
+    },
+    "Presets": {},
+    "Hub": {
+        "yaml_option": ["hubsanity"]
+    },
+    "Fishing": {},
+    "Fishing Achievement": {
+        "hidden": true
+    },
+    "Extra": {
+        "yaml_option": ["extrasanity"]
+    },
+    "Grid's Corner": {}
 }
