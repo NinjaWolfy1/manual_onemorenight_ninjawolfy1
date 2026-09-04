@@ -2,17 +2,347 @@
 	"$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.events.schema.json",
     "data": [
         {
-            "name": "Marvel event",
-            "requires": "|@Right Side:all|",
-            "visible": true
+            "name": "Empty-Handed",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Empty-Handed"
         },
         {
-            "name": "Capcom event",
-            "requires": "|@Left Side:all|"
+            "name": "No time to think",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "No time to think"
         },
         {
-            "name": "Stars_event",
-            "copy_location": "Stars%"
+            "name": "Broken Body",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Broken Body"
+        },
+        {
+            "name": "Broken Soul",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Broken Soul"
+        },
+        {
+            "name": "Emptiness",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Emptiness"
+        },
+        {
+            "name": "Empty Victory",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Empty Victory"
+        },
+        {
+            "name": "Let there be light!",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Let there be light!"
+        },
+        {
+            "name": "Green Runner",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Green Runner"
+        },
+        {
+            "name": "Gone Outside",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Gone Outside"
+        },
+        {
+            "name": "I'm Him",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "I'm Him"
+        },
+        {
+            "name": "Overcharged",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Overcharged"
+        },
+        {
+            "name": "Hard Worker",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Hard Worker"
+        },
+        {
+            "name": "No Power, No Problem",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "No Power, No Problem"
+        },
+        {
+            "name": "The rich get richer",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "The rich get richer"
+        },
+        {
+            "name": "Pulled by Strings",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Pulled by Strings"
+        },
+        {
+            "name": "Burning with you",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Burning with you"
+        },
+        {
+            "name": "Soaked in Guilt",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Soaked in Guilt"
+        },
+        {
+            "name": "I called for help.",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "I called for help."
+        },
+        {
+            "name": "Never Tired",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Never Tired"
+        },
+        {
+            "name": "Stardust Crusaders",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Stardust Crusaders"
+        },
+        {
+            "name": "Unfortune",
+            "category": [
+                "Achievements", "Feats", "Achievement Sanity"
+            ],
+            "copy_location": "Unfortune"
+        },
+        {
+            "name": "Are you ready for Barry?",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Are you ready for Barry?"
+        },
+        {
+            "name": "Self-Embodiment of Perfection",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Self-Embodiment of Perfection"
+        },
+        {
+            "name": "Fighting the Thoughts",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Fighting the Thoughts"
+        },
+        {
+            "name": "All Figured Out",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "All Figured Out"
+        },
+        {
+            "name": "Chicken%",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Chicken%"
+        },
+        {
+            "name": "No Power Needed",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "No Power Needed"
+        },
+        {
+            "name": "Minesweeper",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Minesweeper"
+        },
+        {
+            "name": "Music of the Past",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Music of the Past"
+        },
+        {
+            "name": "Feel my Flame",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Feel my Flame"
+        },
+        {
+            "name": "Not Today, girl!",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Not Today, girl!"
+        },
+        {
+            "name": "Quick Thinker",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity", "Presets"
+            ],
+            "copy_location": "Quick Thinker"
+        },
+        {
+            "name": "Unmasked",
+            "category": [
+                "Achievements", "Threats and Challenges", "Achievement Sanity"
+            ],
+            "copy_location": "Unmasked"
+        },
+        {
+            "name": "Beginner Fisher",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "copy_location": "Beginner Fisher"
+        },
+        {
+            "name": "Fishing Around",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "copy_location": "Fishing Around"
+        },
+        {
+            "name": "Master of the Fishing Rod",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "copy_location": "Master of the Fishing Rod"
+        },
+        {
+            "name": "Seen the Fish",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity", "Fishing", "Fishing Achievements"
+            ],
+            "copy_location": "Seen the Fish"
+        },
+        {
+            "name": "Did you shake it?",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "copy_location": "Did you shake it?"
+        },
+        {
+            "name": "THEY HAVE TO DO SOMETHING",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "copy_location": "THEY HAVE TO DO SOMETHING"
+        },
+        {
+            "name": "The Paint Brush",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "copy_location": "The Paint Brush"
+        },
+        {
+            "name": "The Strongest Hammer",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "copy_location": "The Strongest Hammer"
+        },
+        {
+            "name": "Speed Coil",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "copy_location": "Speed Coil"
+        },
+        {
+            "name": "Not a Charity",
+            "category": [
+                "Achievements", "Hub", "Achievement Sanity"
+            ],
+            "copy_location": "Not a Charity"
+        },
+        {
+            "name": "Boop!",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "copy_location": "Boop!"
+        },
+        {
+            "name": "Shiny Things make me Happy",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "copy_location": "Shiny Things make me Happy"
+        },
+        {
+            "name": "I'm Prepared",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "copy_location": "I'm Prepared"
+        },
+        {
+            "name": "Another Memory",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "copy_location": "Another Memory"
+        },
+        {
+            "name": "The power of Friendship",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity", "Multiplayer Exclusive"
+            ],
+            "copy_location": "The power of Friendship"
+        },
+        {
+            "name": "Welcome",
+            "category": [
+                "Achievements", "Extra", "Achievement Sanity"
+            ],
+            "copy_location": "Welcome"
         }
     ]
 }
