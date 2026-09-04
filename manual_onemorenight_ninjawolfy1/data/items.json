@@ -118,7 +118,7 @@
         {
             "name": "Flashlight",
             "category": [
-                "Tools"
+                "Tools", "Light"
             ],
             "progression": true,
             "sort-key": "row-2-1"
