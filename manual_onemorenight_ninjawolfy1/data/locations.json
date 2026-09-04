@@ -6,7 +6,7 @@
             "category": [
                 "Endings"
             ],
-            "requires": "{CanReachLocation()} AND {CanReachLocation()} AND {CanReachLocation()} AND {CanReachLocation()}",
+            "requires": "{CanReachLocation(Trapped in the Nightmare)} AND {CanReachLocation(Burning It Down)} AND {CanReachLocation(Paint the World Purple)} AND {CanReachLocation(False Savior)}",
             "victory": true
         },
         {
